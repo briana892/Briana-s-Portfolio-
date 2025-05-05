@@ -1,13 +1,8 @@
 function App() {
- return (
-  <div classname="container">
- <div classname="nav-bar"></div>
- <button>Apps</button>
- <button>Users</button>
- <div classname="body"></div>
- <div classname="footer"></div>
- </div>
-  );
+  return ()
 }
-
-export default App;
+export default 
+. flex containter {
+  display: flex;
+  flex-direction: column
+}
