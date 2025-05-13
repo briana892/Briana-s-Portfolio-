@@ -23,7 +23,7 @@ html {
     font-size: 2rem;
     padding: 0.8rem 2rem;
     border-radius: 1rem;
-    background: rgb(110, 162, 110);
+    background: rgb(199, 229, 199);
     text-align: center;
     margin-left: 25%;
     margin-right:25%;
@@ -32,7 +32,34 @@ html {
     font-size: 2rem;
     padding: 0.8rem 2rem;
     border-radius:1rem;
-    background: rgb(255, 227, 176);
+    background: rgb(255, 243, 220);
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.no-container{
+    font-size: 2rem;
+    padding: 0.8rem 2rem;
+    border-radius: 1rem;
+    background:rgb(254, 232, 250);
+    text-align: center;
+    margin-left:25%;
+    margin-right:25%;
+}
+.m-container{
+font-size: 2rem;
+padding: 0.8rem 2rem;
+border-radius: 1rem;
+background:rgb(205, 196, 255);
+text-align: center;
+margin-left: 25%;
+margin-right: 25%;
+}
+.n-containter{
+    font-size: 2rem;
+    padding: 0.8rem 2rem;
+    border-radius: 1rem;
+    background: rgb(255, 228, 228);
     text-align: center;
     margin-left: 25%;
     margin-right: 25%;
